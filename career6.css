@@ -1,0 +1,127 @@
+.flx{
+    display: flex;
+}
+h2{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: -0.03em;
+    color: #0D1317;
+}
+p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #5B5B5B;
+}
+/* start career header */
+.career-header-text h1{
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 72px;
+    letter-spacing: -0.03em;
+    color: #1D3444;
+}
+.career-header_text{
+   
+    margin-top: 64px;
+}
+.career-header_text h2{
+    margin-bottom: 16px;
+}
+.career-header_text-lay1{
+    padding-right: 50px;
+    width: 50%;
+}
+.career-header_text-lay2{
+    margin-left: 284px;
+}
+
+/* career-header-career-detail */
+.career-detail{
+background: rgba(193, 228, 255, 0.3);
+    border-radius: 20px;
+    margin: 64px 0 64px 0;
+}
+.career_detail-title{
+    padding: 68px 0 0 68px;
+}
+.career_detail-title a{
+    font-weight: 600;
+        font-size: 24px;
+        line-height: 108.5%;
+        color: #F58A07;
+}
+.career_detail-title a:hover{
+    color: orangered;
+}
+.career_detail-title h2{
+    margin-top: 40px;
+    margin-right: 92px;
+
+}
+.career_detail-text{
+    padding: 64px 94px 69px 0;
+    margin-left: 40px;
+}
+/* end career-header */
+
+/* start apply-section */
+.apply-section{
+    margin-top: 64px ;
+    margin-bottom: 64px;
+}
+.apply-section-title h1{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.03em;
+    color: #0D1317;
+}
+.apply-section-input{
+    margin-top: 51px;
+}
+.apply-section-input-txt{
+    margin-bottom: 24px;
+    justify-content: space-between;
+}
+.apply-section-input-txt input {
+    color: #9c9c9c;
+    padding: 18px 400px 17px 32px;
+    margin-right: 24px; 
+    border: 1px solid #9c9c9c;
+    border-radius: 27px;
+    background: rgba(210, 218, 237, 0.17);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+.apply-section-input_txt input{
+    padding: 29px 911px 167px 39px;
+    border: 1px solid #9c9c9c;
+    border-radius: 27px;
+    background: rgba(210, 218, 237, 0.17);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #9C9C9C;
+    width: 100%;
+    margin-bottom: 50px;
+}
+.submit a{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 106.5%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    background: #F58A07;
+    border-radius: 31px;
+    padding: 18px 32px 19px 32px;
+}
+.submit a:hover{
+    color: #F58A07;
+    background: #fff;
+    border: 1px solid #F58A07;
+    transition: 0.3s all;
+}
+/* end apply-section */

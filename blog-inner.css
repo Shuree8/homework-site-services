@@ -1,0 +1,44 @@
+.flx{
+    display: flex ;
+}
+.section-img img{
+    border-radius: 20px;
+    margin: 0 auto;
+    padding-top: 128px;
+
+}
+.section-text{
+    margin: 0 auto;
+    width: 750px;
+    padding-top: 80px;
+    margin-bottom: 128px;
+}
+
+.service-section-2-intro-name h6 {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 32px;
+    color: #394149;
+    opacity: 0.87;
+    margin-left: 8px;
+    margin-right: 24px;
+    align-items: flex-start;
+}
+.section-text h1{
+    font-weight: 600;
+    font-size: 64px;
+    line-height: 72px;
+    letter-spacing: -0.03em;
+    color: #1D3444;
+    margin-top: 24px;
+    margin-bottom: 8px;
+}
+.section-text p{
+    margin-top: 24px;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 28px;  
+    color: #5B5B5B;
+    padding-right: 90px;
+
+}

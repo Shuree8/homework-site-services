@@ -1,0 +1,111 @@
+.flx{
+    display:flex ;
+}
+h2{
+    font-weight: 500;
+    font-size: 24px;
+    line-height: 30px;
+    letter-spacing: -0.03em;
+    color: #0D1317;
+}
+p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #5B5B5B;
+    margin-top: 16px;
+}
+.article-head{
+    margin-top: 128px;
+    align-items: flex-end;
+    margin-bottom: 128px;
+
+}
+.article-head-left{
+    width: 750px;
+}
+.article-head-left h1{
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 64px;
+    letter-spacing: -0.03em;
+    color: #1D3444;
+    /* width: 50%; */
+}
+.article-head-right{
+    width: 50%;
+}
+.article-head-right-contact  {
+    padding-top: 16px;
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 30px;
+    color: #5B5B5B;
+}
+.article-head-right-contact a:hover{
+    color: #000;
+}
+.article-head-right-contact h2{
+    margin-bottom: 16px;
+}
+.article-head-right-location {
+     padding-top: 16px;
+    padding-right: 90px;
+}
+.article-middle{
+    margin-top: 24px;
+    margin-bottom: 64px;
+}
+
+.article-end-img iframe {
+    border-radius: 20px;
+}
+.article-end-input{
+    margin-right: 40px;
+}
+.article-end-input input{
+    color: #9c9c9c;
+    padding: 18px 400px 17px 32px;
+    margin-bottom: 16px;
+    border: 1px solid #9c9c9c;
+    border-radius: 27px;
+    background: rgba(210, 218, 237, 0.17);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+}
+.article-end-submit{
+    margin-top: 32px;
+    margin-bottom: 128px;
+}
+.article-end-submit a{
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 106.5%;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    background: #F58A07;
+    border-radius: 31px;
+    padding: 18px 32px 19px 32px;
+  
+
+}
+.article-end-submit a:hover {
+    color: #F58A07;
+    background: #fff;
+    border: 1px solid #F58A07;
+    transition: 0.3s all;
+}
+
+
+.input-text1 input{
+    padding: 32px 461px 179px 32px;
+    border: 1px solid #9c9c9c;
+    border-radius: 27px;
+    background: rgba(210, 218, 237, 0.17);
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #9C9C9C;
+    width: 100%;
+}

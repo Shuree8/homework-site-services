@@ -1,0 +1,134 @@
+/* start section header*/
+.section-header {
+    display: flex;
+}
+
+.section-header-text {
+    margin-right: 46px;
+    margin-bottom: auto;
+    margin-top: auto;
+    padding-right: 3px;
+}
+
+.section-header-text-h1 h1 {
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 72px;
+    color: #1D3444;
+    padding-right: 52px;
+}
+
+.section-header-text-p p {
+    margin-top: 24px;
+    margin-right: 108px;
+    margin-bottom: 50px;
+}
+
+.section-header-text-buttun a {
+    background: #F58A07;
+    border-radius: 27px;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 18px 32px 19px 32px;
+    color: #fff;
+    border: 1px solid #F58A07;
+}
+
+.section-header-text-buttun a:hover {
+    background: #fff;
+    color: #F58A07;
+    transition: 0, 5 all;
+}
+
+/* end section header */
+
+/* start career section */
+.careers-section{ 
+    margin: 128px 0;
+}
+.careers-section-h1 h1 {
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 56px;
+    letter-spacing: -0.03em;
+    color: #0D1317;
+}
+.careers-section-items{
+    display: flex;
+    flex-wrap: wrap;
+    gap:40px;
+    margin-top: 64px;
+    
+}
+.careers-section-items_item{
+    padding: 32px 100px 40px 40px;
+    width: 400px;
+    background: rgba(193, 228, 255, 0.3);
+    border-radius: 20px;
+}
+.careers-section-items_item p{
+    font-weight: 500;
+    font-size: 18px;
+    line-height: 28px;
+    color: #394149;
+    opacity: 0.6;
+    margin-top: 8px ;
+    margin-bottom: 32px;
+}
+.careers-section-items_item a{
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%;
+    color: #f59f35;
+}
+.careers-section-items_item a:hover{
+    color: #F58A07;
+}
+/* end career section */
+
+
+
+
+
+
+/* start section header*/
+.section-header {
+    display: flex;
+}
+.section-header-text {
+    margin-right: 46px;
+    margin-bottom: auto;
+    margin-top: auto;
+    padding-right: 3px;
+}
+
+.section-header-text-h1 h1 {
+    font-size: 64px;
+    font-weight: 600;
+    line-height: 72px;
+    color: #1D3444;
+    padding-right: 52px;
+}
+
+.section-header-text-p p {
+    margin-top: 24px;
+    margin-right: 108px;
+    margin-bottom: 50px;
+}
+
+.section-header-text-buttun a {
+    background: #F58A07;
+    border-radius: 27px;
+    font-weight: 600;
+    font-size: 16px;
+    padding: 18px 32px 19px 32px;
+    color: #fff;
+    border: 1px solid #F58A07;
+}
+
+.section-header-text-buttun a:hover {
+    background: #fff;
+    color: #F58A07;
+    transition: 0, 5 all;
+}
+/* end section header */
